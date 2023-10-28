@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Floirot</title>
+    <link>https://floirot.github.io/posts/</link>
+    <description>Recent content in Posts on Floirot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Oct 2023 16:11:32 +0200</lastBuildDate><atom:link href="https://floirot.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>https://floirot.github.io/posts/testpost/</link>
+      <pubDate>Sat, 28 Oct 2023 16:11:32 +0200</pubDate>
+      
+      <guid>https://floirot.github.io/posts/testpost/</guid>
+      <description>Napísal som teda takýto testovací post.</description>
+      <content:encoded><![CDATA[<p>Napísal som teda takýto testovací post.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
