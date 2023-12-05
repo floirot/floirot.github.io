@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://floirot.github.io/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://floirot.github.io/blog/</loc>
+    <loc>https://floirot.github.io/stories/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/stories/sadako/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/categories/</loc>
   </url><url>
