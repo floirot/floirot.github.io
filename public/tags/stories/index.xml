@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stories on </title>
+    <link>/tags/stories/</link>
+    <description>Recent content in stories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sadako</title>
+      <link>/stories/sadako/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/sadako/</guid>
+      <description>Stál som pri okne v kuchyni tam, kde som stával kedysi. Pohľad von ukazoval nízky drevený plot. Jeho tmavú farbu pretínali zhnité rany. Bolo ho treba často opravovať, ale zrejme sa k tomu nikto nemal.
+Za mojím chrbtom sedel brat. Počul som ako si upíja z čaju. Nechcel sa popáliť a tak opatrne sŕkal, pričom za každým nasledovalo jemné buchnutie hrnčeka o stôl. Kedysi ma strašieval, že keď začne z radiátora tiecť voda, tak sa udeje nešťastie, ale tých nešťastí sa stihlo udiať veľa aj bez varovania.</description>
+    </item>
+    
+  </channel>
+</rss>

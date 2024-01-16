@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floirot sklad on </title>
+    <link>/</link>
+    <description>Recent content in Floirot sklad on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 v knihách</title>
+      <link>/reading/2023/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/2023/</guid>
+      <description>Ballard J.G. - Crash Camus Albert - Prvý človek Čechov Anton - Melancholický dekameron Fisher Mark - Kapitalistický realizmus Graeber David - Bullshit Jobs Hemingway Ernest - Rajská záhrada Ibrahimovič Zlatan - Adrenalín Janáč Milo - Milo nemilo Johanides Ján - Slony v Mauthausene Johanides Ján - Prózy Karika Jozef - Hlad Karika Jozef - Hlbina Karika Jozef - Smäd Lawton Graham - Kniha, ktorá vám možno zachráni život Moe John - Úžasný svet depresie Pištanek Peter - Rivers of Babylon Rakús Stanislav - Ľútostivosť Sloboda Rudolf - Narcis Sloboda Rudolf - Rozum Sloboda Rudolf - Stratený raj Šimečka Martin M.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Tu si budem odkladať veci.</description>
+    </item>
+    
+    <item>
+      <title>Sadako</title>
+      <link>/stories/sadako/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/sadako/</guid>
+      <description>Stál som pri okne v kuchyni tam, kde som stával kedysi. Pohľad von ukazoval nízky drevený plot. Jeho tmavú farbu pretínali zhnité rany. Bolo ho treba často opravovať, ale zrejme sa k tomu nikto nemal.
+Za mojím chrbtom sedel brat. Počul som ako si upíja z čaju. Nechcel sa popáliť a tak opatrne sŕkal, pričom za každým nasledovalo jemné buchnutie hrnčeka o stôl. Kedysi ma strašieval, že keď začne z radiátora tiecť voda, tak sa udeje nešťastie, ale tých nešťastí sa stihlo udiať veľa aj bez varovania.</description>
+    </item>
+    
+  </channel>
+</rss>

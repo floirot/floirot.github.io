@@ -1,0 +1,4 @@
+baseURL: "https://floirot.github.io/floirot-warehouse/"
+languageCode: en-us
+title: Floirot blog
+theme: lugo
