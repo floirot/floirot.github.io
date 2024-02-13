@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Floirot blog</title>
-	<link>https://floirot.github.io/</link>
-	<description>Recent content in Floirot sklad on Floirot blog</description>
+	<link>https://floirot.github.io/life/</link>
+	<description>Recent content in Life on Floirot blog</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://floirot.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://floirot.github.io/life/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>

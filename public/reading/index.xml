@@ -1,20 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Floirot reading on </title>
-    <link>/reading/</link>
-    <description>Recent content in Floirot reading on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/reading/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2023 v knihách</title>
-      <link>/reading/2023/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/reading/2023/</guid>
-      <description>Ballard J.G. - Crash Camus Albert - Prvý človek Čechov Anton - Melancholický dekameron Fisher Mark - Kapitalistický realizmus Graeber David - Bullshit Jobs Hemingway Ernest - Rajská záhrada Ibrahimovič Zlatan - Adrenalín Janáč Milo - Milo nemilo Johanides Ján - Slony v Mauthausene Johanides Ján - Prózy Karika Jozef - Hlad Karika Jozef - Hlbina Karika Jozef - Smäd Lawton Graham - Kniha, ktorá vám možno zachráni život Moe John - Úžasný svet depresie Pištanek Peter - Rivers of Babylon Rakús Stanislav - Ľútostivosť Sloboda Rudolf - Narcis Sloboda Rudolf - Rozum Sloboda Rudolf - Stratený raj Šimečka Martin M.</description>
-    </item>
+	<title>Floirot blog</title>
+	<link>https://floirot.github.io/reading/</link>
+	<description>Recent content in Reading on Floirot blog</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
     
-  </channel>
+        <atom:link href="https://floirot.github.io/reading/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Alkohol</title>
+		<link>https://floirot.github.io/life/alkohol/</link>
+		<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+		
+		<guid>https://floirot.github.io/life/alkohol/</guid>
+		<description>&lt;p&gt;V poslednej dobe ma pochytila zvláštna chuť si definitívne zodpovedať otázku: piť či nepiť? Kdesi už zo mňa stihla opadnúť chuť spíjať sa pod obraz boží. Ťažko v takom stave nachádzať pozitíva, snáď len veľmi krátku a jednostrannú zábavu. Pre niekoho je to aj voda v studnici príhod na spomínanie a pobavenie publika, ale toto sa mňa netýka, keďže sa za akoby mne nepatriace konanie zvyknem hanbiť. Je to akoby existovala druhá osoba so svojimi primitívnymi a tunelovými preferenciami a ja ju nenávidím. Neviem, že či má vôbec zmysel pozastavovať sa nad ďalšími nevýhodami, ale však skúsim. Opica. Obrovské výkyvy nálad. Nezdravie. Závislosť. Asociálna socializácia. Tak ale prečo som vlastne toľko krát bol v takom stave? Vari nie som taký slaboch, aby to bolo kvôli tlaku okolia.&lt;/p&gt;
+&lt;p&gt;Dobre, ale teraz poďme k tej ťažšej dileme. Nepitie alkoholu je síce pekné, ale čo tak predstava občasného popíjania v tmavom podniku pod slabým oranžovým svetlom? Alebo doma, pri písaní, pri fajke? Pekné predstavy. Je čosi hlboké na jemnom postupnom seba-ubližovaní, také pichanie si drievkom do prsta, lebo život je ťažký. A čo tak počas koncertu, nech ma to tam viac baví? Alebo všeobecne medzi ľuďmi na dodanie sebavedomia, nech sa toľko nebojím? Áno, pomocné kolieska k jazde pomedzi ľudské prekážky, lebo inak hrozí pád a trápno.&lt;/p&gt;
+&lt;p&gt;Ale ja nechcem piť. Nepotrebujem si ubližovať ešte aj alkoholom. Nepotrebujem otupovať svoju myseľ, unikať od vnímania reality svojím normálnym, neintoxikovaným Ja. Možno raz budem v takom stave, že život bude tak neznesiteľný, že ho budem chcieť prestať vnímať, ale tak to zatiaľ nie je. Hocičo sa stihlo udiať. Preháňajú sa mnou mnohé démony, ale každý z nich sa po alkohole objaví posilnený, zmutovaný, obohatený o nové, rozvetnejšie chápadlá. Deje sa tak už aj počas alkoholu keď sa prehupnem zo stúpajúcej krivky opitosti na klesajúcu, už vtedy sa prestanem baviť a strácam sa v svojej hlave izolovaný od baviacej sa spoločnosti. Baviacej sa spoločnosti? Možno aj oni sú ukrytí vo vnútri, ale ako to môžem posúdiť, keď mám vnímanie zastreté zaseknutou roletou liehu.&lt;/p&gt;
+&lt;p&gt;Ostáva posledná prekážka. Posledný boss nútiaci piť z otráveného prameňa. Ľudia. Medzi ľuďmi sa akosi ťažko existuje. Niekedy sa mi stane, že keď som pri nich už naozaj často, tak sa stratí moja podstata. Ocitnem sa sám a ten sám je niekto iný, nie Ja. Myslím si, že potrebujem čas na reflexiu toho, čo sa deje. Nestačí, že reflektujem medzi ľuďmi, napríklad v rámci rozhovoru, potrebujem si to ešte potvrdiť osamote, keď sa mikrofón ocitne v rukách môjho vnútorného toku myšlienok. Ešte to zjednoduším: moje baterky sa dobíjajú v samote a vybíjajú medzi ľuďmi. Veru, necítim sa medzi ľuďmi komfortne. Mám v sebe zakorenenú potrebu na nich pôsobiť príjemne, či zaujímavo, nech ma nejako zvalidujú. To nie je nič nezvyčajné, do istej miery po tom pravdepodobne bažia všetci. Čo keď sa to bežné, neintoxikované Ja javí nedostatočným? Vtedy pomôže alkohol. Poskytuje totižto uvoľnenie, popustenie zábran, zúži vnímanie vnímania ostatných a ohlupuje. To všetko veľmi pomáha k prežitiu zdanlivo nepríjemných medziľudských situácií.&lt;/p&gt;
+&lt;p&gt;Prečo si ale pomáhať? Prečo sa nesnažiť zlepšiť bez potreby alkoholu? Takúto trefnú otázku som si dokázal položiť a musím povedať, že práve náznak výzvy ma dokázal presvedčiť o tom, že chcem s alkoholom prestať. Nechcem si to už viac zľahčovať a postupne vytvárať návyk a taktiež priepasť medzi aspoň zdanlivo zaujímavým opilcom a nudným abstinentom. Opitá hviezda a šedá myš s vyhýbavým pohľadom. No tak budem šedá myš, ale pohľad budem mať priamy a budem pozerať rovno do ťažkých súdiacich pohľadov. Možno mi prídu zrazu niektorí ľudia nezaujímaví, možno prestanem mať chuť na s alkoholom previazaný typ zábavy a možno, naopak, dokážem existovať aj medzi intoxikovanými, podstatné ale je, že ja ho požívať nechcem. Vidieť svet taký, aký je v mojich očiach. Nech zaujímavé je zaujímavým a nudné nudným. Nech som aký som a nech sa zmierim s tým, aký som v očiach iných.&lt;/p&gt;
+&lt;p&gt;Podobné uvažovanie viem určite aplikovať aj na iné závislosti. S inými drogami nemám problém, pretože tie neriešia ten socializačný problém a zároveň nie sú v našej kultúre tak bežné – je malá šanca sa ocitnúť niekde, kde bude okolie do ich požitia nútiť. Problém mi však rozhodne robia sociálne siete, čo mi je už aj trochu smiešne opäť spomínať, pretože sa s touto závislosťou trápim už asi 7 rokov. Kadečo som vyskúšal no a furt je zle. Asi to chce opäť nejakú samostatnú úvahu a radikálne kroky.&lt;/p&gt;
+&lt;p&gt;Na záver ešte dodám, že k finálnemu rozhodnutiu „nepiť“ ma dokoplo zhliadnutie videa venujúcemu sa hudbe vo filme Requiem for a dream. Ten film som už dva-trikrát videl a určite je to v mojich očiach najťažší film a zároveň jeden z najlepších. Pojednáva sa tam o snoch a závislostiach, ktoré nakoniec sny zničia, čo samozrejme sedí aj na tému alkoholu, hoci sa všetci utešujeme tým, že my predsa máme mieru a nedopadneme ako ten štamgast s gaťami na špagáte. Tá hudba však vo mne vyvolala brutálnu emóciu. Melódia sna a lásky. Sna, ktorý sa nesplní a predsa sa nad nami nedostižne vznáša. Lásky, ktorá existuje, ale azda len kdesi mimo reality, lebo práve tú krutosť reality nedokáže ustáť.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>2023 v knihách</title>
+		<link>https://floirot.github.io/reading/2023/</link>
+		<pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+		
+		<guid>https://floirot.github.io/reading/2023/</guid>
+		<description>&lt;ul&gt;
+&lt;li&gt;Ballard J.G. - Crash&lt;/li&gt;
+&lt;li&gt;Camus Albert - Prvý človek&lt;/li&gt;
+&lt;li&gt;Čechov Anton - Melancholický dekameron&lt;/li&gt;
+&lt;li&gt;Fisher Mark - Kapitalistický realizmus&lt;/li&gt;
+&lt;li&gt;Graeber David - Bullshit Jobs&lt;/li&gt;
+&lt;li&gt;Hemingway Ernest - Rajská záhrada&lt;/li&gt;
+&lt;li&gt;Ibrahimovič Zlatan - Adrenalín&lt;/li&gt;
+&lt;li&gt;Janáč Milo - Milo nemilo&lt;/li&gt;
+&lt;li&gt;Johanides Ján - Slony v Mauthausene&lt;/li&gt;
+&lt;li&gt;Johanides Ján - Prózy&lt;/li&gt;
+&lt;li&gt;Karika Jozef - Hlad&lt;/li&gt;
+&lt;li&gt;Karika Jozef - Hlbina&lt;/li&gt;
+&lt;li&gt;Karika Jozef - Smäd&lt;/li&gt;
+&lt;li&gt;Lawton Graham - Kniha, ktorá vám možno zachráni život&lt;/li&gt;
+&lt;li&gt;Moe John - Úžasný svet depresie&lt;/li&gt;
+&lt;li&gt;Pištanek Peter - Rivers of Babylon&lt;/li&gt;
+&lt;li&gt;Rakús Stanislav - Ľútostivosť&lt;/li&gt;
+&lt;li&gt;Sloboda Rudolf - Narcis&lt;/li&gt;
+&lt;li&gt;Sloboda Rudolf - Rozum&lt;/li&gt;
+&lt;li&gt;Sloboda Rudolf - Stratený raj&lt;/li&gt;
+&lt;li&gt;Šimečka Martin M. - Telesná výchova&lt;/li&gt;
+&lt;li&gt;Varoufakis Yanis - Talking to My Daughter About Economy&lt;/li&gt;
+&lt;li&gt;Žižek Slavoj - Trouble in Paradise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pri pohľade na rýchlo narastajúci zoznam prečítaných kníh som pociťoval hrdosť. Každej knihe patril kus času a pozornosti a preto samozrejme po prečítaní nasledoval pocit úspechu, pocit vyplývajúci zo splnenia úlohy. Podobný pocit mám aj z toho, že povysávam, alebo upracem v kuchyni, samozrejme v menšej intenzite, v priamej úmere k času a úsiliu venovanému danej úlohe. Toto ale nemôže byť zmysel čítania, možno tak akýsi sprievodný jav. A veru ako rok plynul, tak aj efekt tohoto pocitu pohasínal a ďalšie knihy prestali pribúdať.&lt;/p&gt;
+&lt;p&gt;O čom to vlastne celé má byť je téma na samostatnú úvahu, ba až sériu úvah. Predsa len by som však ešte čosi napísal k tomuto zoznamu. Ako sa zdal veľký, tak takto, keď každej knihe patrí len jeden riadok, to je len zoznam. Načo naháňať kvantitu a tešiť sa z &lt;em&gt;do&lt;/em&gt;čítania. Prečo by som si to mal vôbec rátať, prečo by som si mal stanovovať číslo ako výzvu na Goodreads? S odstupom času mi to aj tak príde málo.&lt;/p&gt;
+&lt;p&gt;Zostali mi však spomienky na vnútorné pohnutie v momentoch kedy som dokázal vnímať to, čo čítam. Nie v zmysle deja, teda, aj v zmysle deja, ale najmä hĺbku myšlienok. V špecifických pohľadoch na svet, na život. V paralelách k mojmu prežívaniu a skúsenostiam.&lt;/p&gt;
+&lt;p&gt;Do ďalšieho roka teda skúsim čítaniu venovať viac cieleného času a nerátať jeho využitie počtom strán, ale kvalitou zážitku. A nebáť sa opakovaného čítania. Ak je kniha skvost, tak je priam nutné sa k nej vracať celý život.&lt;/p&gt;
+&lt;p&gt;Naj beletria: Sloboda Rudolf - Rozum&lt;/p&gt;
+&lt;p&gt;Naj naučná kniha: Graeber David - Bullshit jobs&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>https://floirot.github.io/about/</link>
+		<pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+		
+		<guid>https://floirot.github.io/about/</guid>
+		<description>&lt;p&gt;Tu si budem odkladať veci.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Sadako</title>
+		<link>https://floirot.github.io/stories/sadako/</link>
+		<pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://floirot.github.io/stories/sadako/</guid>
+		<description>&lt;p&gt;Stál som pri okne v kuchyni tam, kde som stával kedysi. Pohľad von ukazoval nízky drevený plot. Jeho tmavú farbu pretínali zhnité rany. Bolo ho treba často opravovať, ale zrejme sa k tomu nikto nemal.&lt;/p&gt;
+&lt;p&gt;Za mojím chrbtom sedel brat. Počul som ako si upíja z čaju. Nechcel sa popáliť a tak opatrne sŕkal, pričom za každým nasledovalo jemné buchnutie hrnčeka o stôl. Kedysi ma strašieval, že keď začne z radiátora tiecť voda, tak sa udeje nešťastie, ale tých nešťastí sa stihlo udiať veľa aj bez varovania. Ja som odtiaľto odišiel, ale brat ostal. O dom sa bolo treba starať, veď k nemu prislúchala záhrada, humno aj pole. Priveľa majetku pôsobí ako závažie zadržiavajúce človeka na mieste. Ja som utiekol, ale brat ostal pripútaný.&lt;/p&gt;
+&lt;p&gt;A možno to bolo naopak.&lt;/p&gt;
+&lt;p&gt;Brat sa mi prihovoril:&lt;/p&gt;
+&lt;p&gt;„Ako bolo na prechádzke?“&lt;/p&gt;
+&lt;p&gt;„Tak ako vždy.“&lt;/p&gt;
+&lt;p&gt;„Všetko po starom však?“&lt;/p&gt;
+&lt;p&gt;„Všetko sa mi zdalo rovnaké, až na pár vecí.“&lt;/p&gt;
+&lt;p&gt;Nedovysvetlil som, že práve tých pár detailov na mňa pôsobilo ako ovalenie hrboľatou palicou po hlave. Tam, kde bolo pole, stála menšia fabrika. Kulisy kostolnej veže už netvorila len hora, ale aj pár domov čo sa po novom skrývali na jej úpätí. Sem tam nejaký nový plot, nová fasáda domu. Inak všetko rovnaké. Čas tu zastal, ale detaily kričali ako dlho tomu tak bolo.&lt;/p&gt;
+&lt;p&gt;Ozval sa sykot.&lt;/p&gt;
+&lt;p&gt;Hľadal som za oknom zdroj tohto zvuku. Žiaden pohyb, iba oblakmi vybielená obloha, pod ňou chladné domy a prázdna cesta. Pod rukami som cítil výbežky starého radiátora. Kedysi boli biele, teraz už trochu zožltnuté, miestami bola farba úplne strhnutá a odhaľovala tmavé plechové telo. To syčanie vychádzalo z neho. Zapozeral som sa na koliesko, ktorým sa otváral a zatváral prívod vody do jeho záhybov. Do hlavy mi opäť vstúpili spomienky na strach z detstva, na zaťaté pohľady plné bázne, nekonečné očakávanie neodvratného, na tečúcu vodu a koniec sveta. Premkol ma strach. Snáď nie…&lt;/p&gt;
+&lt;p&gt;Na koliesku sa sformovala kvapka. Postupne sa odliepala z chladného kovu až nakoniec spadla na zem.&lt;/p&gt;
+&lt;p&gt;Pokúsil som sa presunúť zrak niekam inam, pretnúť fatamorgánu prameniacu kdesi v minulosti. Nestihol som. Zjavovali sa ďalšie a ďalšie kvapky, až sa z nich stal jemný, nebadaný prúd vody, obopínajúci kov.&lt;/p&gt;
+&lt;p&gt;Pomaly som sa otočil k bratovi. Predstieral som sústredenie na zaujatie miesta za stolom oproti nemu. Hlavne nič nedať najavo a nebudeme o tom rozprávať.
+Spýtal som sa ho, že ako sa má jeho žena a brat sa na mňa vážne zahľadel:&lt;/p&gt;
+&lt;p&gt;„Nemá sa veľmi dobre. Rád by som povedal, že sa má dobre, ale to by bolo klamstvo.“&lt;/p&gt;
+&lt;p&gt;Vedel som, že presun dedinu nebol pre ňu radostnou zmenou a nechcelo sa mi to rozoberať, ale predsa mi to napadlo ako prvé, čo by som sa ho spýtal. Prišla otázka na moju ženu.&lt;/p&gt;
+&lt;p&gt;„Ona v pohode…“, odvetil som stroho. Ani toto sa mi nechcelo príliš rozmazávať, pretože sa mala dobre. Napadlo mi ešte povyzvedať sa ho na prácu a brat sa dal rozprávať:&lt;/p&gt;
+&lt;p&gt;„V robote dobre… Mám to blízko, vo vedľajšej dedine. Niekedy mi to aj tak príde ďaleko. Predsa len každý deň tam a nazad. No ale dobre, že chodím domov tak skoro, ešte za svetla, ešte sa dá dačo porobiť vonku. Ty to máš lepšie, však? Tak ako sa ti zachce si robíš…“&lt;/p&gt;
+&lt;p&gt;Odpovedal som tak ako sa patrí. Že netreba zabúdať na ten a ten nepríjemný aspekt mojej roboty a taktiež že niektorý zo zdanlivo negatívnych aspektov jeho roboty nie je až taký negatívny, ba z určitého uhla pohľadu by sa mohol javiť aj ako pomerne pozitívny. Stieranie rozdielov a chlácholenie aby sme si príliš nezávideli, aby sme spolu mohli vychádzať a viesť rozhovor.&lt;/p&gt;
+&lt;p&gt;Brat sa poškrabkal na ušnom lalôčiku. Vyzeralo to tak, že nám došli témy, ale to momentálne nebolo prípustné a tak som začal rozprávať o čosi úprimnejšie ako zvyčajne. Presne o tom, o čom sa malo rozprávať už dávno.&lt;/p&gt;
+&lt;p&gt;„Vždy som si v sebe niesol vinu za to, že som to tu všetko nechal na teba, že som nedokázal čeliť zodpovednosti. Novej, nečakanej zodpovednosti. No a stále si tú vinu nesiem. Nevraciam sa sem rád, nerád odtiaľto odchádzam a úľava príde až po čase.“&lt;/p&gt;
+&lt;p&gt;Brat razom vyzeral byť čulejší. Priamo sa na mňa zahľadel: „Tak načo sem chodíš?“&lt;/p&gt;
+&lt;p&gt;„No asi práve kvôli tej vine. Že by som tu mal chodiť, že ma tu je treba a pritom viem, že je neskoro, že nemám nato sa vrátiť nastálo a dať to tu všetko do poriadku. Aké smiešne! Že všetko dať do poriadku… Alebo ešte jedna vec mi napadla. Že je to tu celé taký môj referenčný bod. Idem niekam preč, žijem a potom sa vrátim tu a až tu vidím kto som, kam som sa pohol od svojho základu. Je to ako postaviť sa do stredu miestnosti, okolo sudcovia, všetci sedia na vysokých stolcoch a pozerajú. A majú tvoju tvár a tváre ostatných – rodiny, susedov, štamgastov. Alebo ešte lepšie: nemajú tváre. Len sedia a súdia.“&lt;/p&gt;
+&lt;p&gt;„Myslíš, že niekoho zaujímaš?“, spýtal sa brat dosť hrubo a sám si aj nemenej hrubšie odpovedal: „Nie. Odišiel si a tak sa z teba stala len zmienka v rozhovoroch. Keď už naozaj niet o čom rozprávať, tak sa rozprávame o tebe a o chvíľu je po téme, lebo niet čo rozoberať.“&lt;/p&gt;
+&lt;p&gt;Napočudovanie sa mi uľavilo. Aj som si v istých chvíľach myslel, že to je nejako takto, ale bolo fajn vedieť, že to tak naozaj je. Nedalo mi nepustiť sa v úvahách ďalej.&lt;/p&gt;
+&lt;p&gt;„Vieš mám ešte jeden pohľad na túto vec. Niekedy si myslím, že si to mal oveľa lepšie ty a vinu cítim zbytočne. Nemal si síce na výber - keď som neostal ja, musel si ostať ty. Možno si ale bol donútený k tej najlepšej možnosti, k pokračovaniu, k budovaniu na základoch toho, čo bolo a pochybnostiam sa ti odolávalo oveľa ľahšie, pretože si im odolávať musel. Cítim vinu, ale prečo? Mám voľnosť, ale prišiel s ňou aj začiatok od nuly, z ktorého sa stali ďalšie začiatky od nuly a nakoniec je len tá nula a zopár spomienok. Možno sa sem vraciam, lebo tu sa pokračuje a život pretrváva aj za hranice prchavých večerov a nocí. Možno ti dokonca závidím a rád by&amp;hellip;“&lt;/p&gt;
+&lt;p&gt;Zastavil som rozprávanie, pretože som si naplno uvedomil niečo, čo som podvedome vnímal posledných pár chvíľ. Áno, vnímal som to, ale chcel som ešte chvíľu zotrvať v bežnom svete v rozmedzí fyzikálnych zákonov, kde sa zvuk, ktorý sa stupňoval odkiaľsi z útrob domu, jednoducho nemôže vyskytnúť. Znelo to ako zúfalstvo, zatiaľ tlmené niekoľkými chodbami a dverami, ale predsa neodbytne doliehajúce a stupňujúce sa, áno, ten hluk stále narastal, hukot trúby, apokalyptickej poľnice, vysávajúci všetku nádej na únik, všetku nádej na to, že zanikne, alebo že ostane aspoň taký rovnaký, že sa nebude približovať a narastať. Tak preto som sa snažil rozprávať ďalej, preto som povedal tie dve-tri vety navyše. Vedel som, že je koniec. Neviem ako som vyzeral ja, ale brat vyzeral inak. Preč bola jeho napätá tvár, pripravená čosi odvrknúť, preč boli prsty, nervózne sa hrajúce s ušným lalôčikom, ktorý na hrátky odpovedal krátkym dodatočným zahompáľaním sa. Objavil sa výraz nemej hrôzy. Veľké modré oči boli o čosi väčšie a priesvitnejšie ako zvyčajne. Zaťaté úzke pery postupne uvoľňovali stisk a chystali sa rozďaviť v momente, keď bude jasné, že sa to naozaj deje.&lt;/p&gt;
+&lt;p&gt;Hluk sa približoval.&lt;/p&gt;
+&lt;p&gt;Vnímanie času sa spomalilo, roztiahlo posledné sekundy, nech každá z nich niečo znamená. Teraz už sa dal rozoznať šialený rev, zakvačujúci sa cez ušné diery do mozgu, blokujúci všetky ostatné frekvencie. Nedovoľoval odpútanie a vnímanie niečoho iného ako tohoto konca, ktorý sa rysoval už v detstve, v rozprávaní, vo filmoch a knihách a potom v snoch, kedy vyzeral čoraz reálnejšie, vykrádal sa z predstavivosti von do tmavých kútov ulíc a izieb, tam, kde nedoliehal ľudský smiech a ani hlasy. Rodičia umreli a rozľahla sa tma.&lt;/p&gt;
+&lt;p&gt;Slnko sa ukrylo za horu a v tme za rozmazávajúcim sklom dverí von z kuchyne sa zhmotňuje biely plášť. Už sa neukryjem pod lampu mesta. Je neskoro. Kľučka sa pohla a dvere sa otvárajú.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
 </rss>
