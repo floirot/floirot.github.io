@@ -1,0 +1,19 @@
+baseURL: "https://floirot.github.io/"
+languageCode: "en-us"
+title: "Floirot blog"
+theme: "hugo-simple-main"
+
+menu:
+  main:
+    - name: "Domov"
+      pageRef: "/"
+      weight: 10
+    - name: "Blog"
+      pageRef: "/blog"
+      weight: 20
+    - name: "Písanie"
+      pageRef: "/writing"
+      weight: 30
+    - name: "O mne"
+      pageRef: "/about.md"
+      weight: 40
