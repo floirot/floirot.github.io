@@ -1,7 +1,8 @@
 ---
 title: "Voľby"
 date: "2025-04-06"
-tags: ['short-story']
+tags: [short-story]
+draft: true
 ---
 
 Marek darmo vťahoval hlavu medzi plecia. Chladné ulice večerného mesta mu aj tak prenikali do tela cez nezakrytý krk a tak od jedu aspoň odkopával z chodníka šišky. O chvíľu sa ale jeho situácia zlepšila, pretože sa ocitol vo vyhriatom Kávabare, kde bez váhania sadol do kúta k rohovému stolíku. Potom sa posledné lúče zapadajúceho slnka opreli o chrbát barmana, ktorý sa vybral k Marekovmu kútu. Marek videl len blížiaci sa tmavý tieň, ale aj tak si rád od neho objednal obligátnu kávu.

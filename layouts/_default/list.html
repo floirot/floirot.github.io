@@ -1,0 +1,94 @@
+{{ define "main" }}
+
+<content>
+  {{ if .Data.Singular }}
+  <h3>Filtering for "{{ .Title }}"</h3>
+  <small>
+    <a href='{{ relURL "blog" }}'>Remove filter</a>
+  </small>
+  {{ end }}
+
+  {{ if or .Paginator.HasPrev .Paginator.HasNext }}
+  {{- partial "pagination.html" . -}}
+  {{ end }}
+
+  <ul class="blog-posts">
+    {{ range .Paginator.Pages }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+            {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      {{ if .Params.link }}
+      <a href="{{ .Params.link }}" target="_blank">{{ .Title }} ↪</a>
+      {{ else }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      {{ end }}
+    </li>
+    {{ else }}
+    <li>No posts yet</li>
+    {{ end }}
+  </ul>
+
+  {{ if not .Data.Singular }}
+  <small>
+    <div>
+      <!-- Display tags -->
+      {{ $tags := slice }}
+      {{ range .Paginator.Pages }}
+      {{ with .Params.tags }}
+      {{ $tags = $tags | append . }}
+      {{ end }}
+      {{ end }}
+      {{ $tags = $tags | uniq | sort }}
+      {{ if $tags }}
+      <p>
+        Tagy:&nbsp;&nbsp;
+        {{ range $tags }}
+        <a href='{{ printf "/tags/%s" . | urlize }}'>#{{ . }}</a>&nbsp;&nbsp;
+        {{ end }}
+      </p>
+      {{ end }}
+
+      <!-- Display type-of-food -->
+      {{ $typeOfFood := slice }}
+      {{ range .Paginator.Pages }}
+      {{ with .Param "type-of-food" }}
+      {{ $typeOfFood = $typeOfFood | append . }}
+      {{ end }}
+      {{ end }}
+      {{ $typeOfFood = $typeOfFood | uniq | sort }}
+      {{ if $typeOfFood }}
+      <p>
+        Typ jedla:&nbsp;&nbsp;
+        {{ range $typeOfFood }}
+        <a href='{{ printf "/type-of-food/%s" . | urlize }}'>#{{ . }}</a>&nbsp;&nbsp;
+        {{ end }}
+      </p>
+      {{ end }}
+
+      <!-- Display ingredients -->
+      {{ $ingredients := slice }}
+      {{ range .Paginator.Pages }}
+      {{ with .Params.ingredients }}
+      {{ $ingredients = $ingredients | append . }}
+      {{ end }}
+      {{ end }}
+      {{ $ingredients = $ingredients | uniq | sort }}
+      {{ if $ingredients }}
+      <p>
+        Ingrediencie:&nbsp;&nbsp;
+        {{ range $ingredients }}
+        <a href='{{ printf "/ingredients/%s" . | urlize }}'>#{{ . }}</a>&nbsp;&nbsp;
+        {{ end }}
+      </p>
+      {{ end }}
+    </div>
+  </small>
+  {{ end }}
+
+</content>
+{{ end }}

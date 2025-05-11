@@ -1,7 +1,7 @@
 ---
 title: "Sadako"
 date: "2023-12-05"
-tags: ['horror','short-story']
+tags: [horror, short-story]
 ---
 
 Stál som pri okne v kuchyni tam, kde som stával kedysi. Pohľad von ukazoval nízky drevený plot. Jeho tmavú farbu pretínali zhnité rany. Bolo ho treba často opravovať, ale zrejme sa k tomu nikto nemal.

@@ -1,7 +1,7 @@
 ---
 title: "Náhoda"
 date: "2025-01-12"
-tags: ['short-story']
+tags: [short-story]
 ---
 
 Hľadel som do obrazoviek a podchvíľou ma premkýnala úzkosť. Mama písala, že ju sanitka zobrala do nemocnice. Kontroloval som teda správy na mobile častejšie ako zvyčajne a pomedzi to odpútaval myseľ prehľadávaním sociálnych sietí.

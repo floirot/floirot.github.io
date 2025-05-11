@@ -8,6 +8,9 @@ menu:
     - name: "Domov"
       pageRef: "/"
       weight: 10
+    - name: "Recepty"
+      pageRef: "/recipes"
+      weight: 15
     - name: "Blog"
       pageRef: "/blog"
       weight: 20
@@ -17,3 +20,9 @@ menu:
     - name: "O mne"
       pageRef: "/about.md"
       weight: 40
+
+taxonomies:
+  category: categories
+  tag: tags
+  ingredient: ingredients
+  type-of-food: type-of-food
