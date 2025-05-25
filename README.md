@@ -1,1 +1,1 @@
-# floirot-warehouse
+# floirot - personal webpage

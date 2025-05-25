@@ -6,8 +6,72 @@
     <description>Recent content on Floirot blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://floirot.github.io/ingredients/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cestoviny</title>
+      <link>https://floirot.github.io/ingredients/cestoviny/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/cestoviny/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>citrón</title>
+      <link>https://floirot.github.io/ingredients/citr%C3%B3n/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/citr%C3%B3n/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>fazuľa</title>
+      <link>https://floirot.github.io/ingredients/fazu%C4%BEa/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/fazu%C4%BEa/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>mrkva</title>
+      <link>https://floirot.github.io/ingredients/mrkva/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/mrkva/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>paradajka</title>
+      <link>https://floirot.github.io/ingredients/paradajka/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/paradajka/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>parmezán</title>
+      <link>https://floirot.github.io/ingredients/parmez%C3%A1n/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/parmez%C3%A1n/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>tortilla</title>
+      <link>https://floirot.github.io/ingredients/tortilla/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/tortilla/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>zemiaky</title>
+      <link>https://floirot.github.io/ingredients/zemiaky/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://floirot.github.io/ingredients/zemiaky/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
     <item>
       <title>cícer</title>
       <link>https://floirot.github.io/ingredients/c%C3%ADcer/</link>
@@ -57,14 +121,6 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
-      <title>mrkva</title>
-      <link>https://floirot.github.io/ingredients/mrkva/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://floirot.github.io/ingredients/mrkva/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
       <title>olivy</title>
       <link>https://floirot.github.io/ingredients/olivy/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
@@ -77,14 +133,6 @@
       <link>https://floirot.github.io/ingredients/paprika/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>https://floirot.github.io/ingredients/paprika/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>paradajka</title>
-      <link>https://floirot.github.io/ingredients/paradajka/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://floirot.github.io/ingredients/paradajka/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -133,14 +181,6 @@
       <link>https://floirot.github.io/ingredients/uhorka/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>https://floirot.github.io/ingredients/uhorka/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>zemiaky</title>
-      <link>https://floirot.github.io/ingredients/zemiaky/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://floirot.github.io/ingredients/zemiaky/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

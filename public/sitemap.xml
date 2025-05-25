@@ -2,22 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://floirot.github.io/ingredients/c%C3%ADcer/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+    <loc>https://floirot.github.io/ingredients/cestoviny/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/recipes/recipe-007/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/citr%C3%B3n/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/fazu%C4%BEa/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/type-of-food/hlavn%C3%A9-jedlo/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/recipes/recipe-008/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/mrkva/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/paradajka/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/parmez%C3%A1n/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/type-of-food/polievka/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/recipes/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/tortilla/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/recipes/recipe-006/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/type-of-food/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/zemiaky/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://floirot.github.io/ingredients/c%C3%ADcer/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/recipes/recipe-002/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://floirot.github.io/type-of-food/hlavn%C3%A9-jedlo/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://floirot.github.io/ingredients/hrach/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://floirot.github.io/ingredients/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/ingredients/karfiol/</loc>
@@ -41,28 +83,16 @@
     <loc>https://floirot.github.io/ingredients/m%C3%A4so-kuracie/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://floirot.github.io/ingredients/mrkva/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://floirot.github.io/ingredients/olivy/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/ingredients/paprika/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://floirot.github.io/ingredients/paradajka/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://floirot.github.io/ingredients/poh%C3%A1nka/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://floirot.github.io/type-of-food/polievka/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://floirot.github.io/ingredients/p%C3%B3r/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://floirot.github.io/recipes/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/ingredients/ry%C5%BEa/</loc>
@@ -77,16 +107,10 @@
     <loc>https://floirot.github.io/ingredients/tekvica/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://floirot.github.io/type-of-food/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://floirot.github.io/ingredients/uhorka/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/recipes/recipe-004/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://floirot.github.io/ingredients/zemiaky/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://floirot.github.io/writing/nahoda/</loc>
