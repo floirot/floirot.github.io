@@ -1,7 +1,7 @@
 ---
 title: "Cestoviny s citrónom a parmezánom"
 date: "2025-05-25"
-type-of-food: hlavné-jedlo
+types-of-food: [hlavné-jedlo, vegetarian]
 ingredients: [cestoviny, citrón, parmezán]
 ---
 

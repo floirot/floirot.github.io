@@ -1,7 +1,7 @@
 ---
 title: "Tortillová pizza"
 date: "2025-05-25"
-type-of-food: hlavné-jedlo
+types-of-food: [hlavné-jedlo]
 ingredients: [tortilla, paradajka]
 ---
 

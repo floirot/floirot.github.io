@@ -35,12 +35,12 @@
 </p>
 {{ end }}
 
-<!-- Render type-of-food -->
-{{ $typeOfFood := .GetTerms "type-of-food" }}
-{{ if $typeOfFood }}
+<!-- Render types-of-food -->
+{{ $typesOfFood := .GetTerms "types-of-food" }}
+{{ if $typesOfFood }}
 <p>
   Typ jedla:&nbsp;&nbsp;
-  {{ range $typeOfFood }}
+  {{ range $typesOfFood }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>&nbsp;&nbsp;
   {{ end }}
 </p>

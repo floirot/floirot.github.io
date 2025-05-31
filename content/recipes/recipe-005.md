@@ -1,7 +1,7 @@
 ---
 title: "Kuracie soté so zeleninou"
 date: "2025-05-10"
-type-of-food: hlavné-jedlo
+types-of-food: [hlavné-jedlo]
 ingredients: [mäso-kuracie, kukurica, uhorka, paprika, paradajka]
 ---
 

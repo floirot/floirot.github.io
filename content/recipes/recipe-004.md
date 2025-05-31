@@ -1,7 +1,7 @@
 ---
 title: "Vegan hokkaido polievka s muškátovým orieškom"
 date: "2025-05-10"
-type-of-food: polievka
+types-of-food: [polievka, vegan]
 ingredients: [tekvica, zemiaky]
 ---
 

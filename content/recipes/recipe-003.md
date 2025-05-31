@@ -1,7 +1,7 @@
 ---
 title: "Karfiolové rizoto s kuracím mäsom"
 date: "2025-05-10"
-type-of-food: hlavné-jedlo
+types-of-food: [hlavné-jedlo]
 ingredients: [ryža, karfiol, mäso-kuracie, hrach]
 ---
 

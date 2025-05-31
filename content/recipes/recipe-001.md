@@ -1,7 +1,7 @@
 ---
 title: "Lahodná pohánka s mrkvou a pórom"
 date: "2025-05-10"
-type-of-food: šalát
+types-of-food: [šalát, vegan]
 ingredients: [pohánka, mrkva, pór]
 ---
 

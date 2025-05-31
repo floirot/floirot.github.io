@@ -1,7 +1,7 @@
 ---
 title: "Jednoduchá fazuľová polievka na kyslo"
 date: "2025-05-25"
-type-of-food: polievka
+types-of-food: [polievka, vegetarian]
 ingredients: [fazuľa, zemiaky, mrkva]
 ---
 

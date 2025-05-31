@@ -1,7 +1,7 @@
 ---
 title: "Grécky kuskusový šalát"
 date: "2025-05-10"
-type-of-food: šalát
+types-of-food: [šalát, vegetarian]
 ingredients: [paradajka, cícer, olivy, kuskus, syr-feta, uhorka]
 ---
 

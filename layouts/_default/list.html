@@ -53,19 +53,19 @@
       </p>
       {{ end }}
 
-      <!-- Display type-of-food -->
-      {{ $typeOfFood := slice }}
+      <!-- Display types-of-food -->
+      {{ $typesOfFood := slice }}
       {{ range .Paginator.Pages }}
-      {{ with .Param "type-of-food" }}
-      {{ $typeOfFood = $typeOfFood | append . }}
+      {{ with .Param "types-of-food" }}
+      {{ $typesOfFood = $typesOfFood | append . }}
       {{ end }}
       {{ end }}
-      {{ $typeOfFood = $typeOfFood | uniq | sort }}
-      {{ if $typeOfFood }}
+      {{ $typesOfFood = $typesOfFood | uniq | sort }}
+      {{ if $typesOfFood }}
       <p>
         Typ jedla:&nbsp;&nbsp;
-        {{ range $typeOfFood }}
-        <a href='{{ printf "/type-of-food/%s" . | urlize }}'>#{{ . }}</a>&nbsp;&nbsp;
+        {{ range $typesOfFood }}
+        <a href='{{ printf "/types-of-food/%s" . | urlize }}'>#{{ . }}</a>&nbsp;&nbsp;
         {{ end }}
       </p>
       {{ end }}
