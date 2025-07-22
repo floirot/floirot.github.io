@@ -1,0 +1,7 @@
+<meta charset="UTF-8">
+<title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+
+{{ $style := resources.Get "css/style.css" | minify }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" />

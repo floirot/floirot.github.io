@@ -1,7 +1,7 @@
 baseURL: "https://floirot.github.io/"
 languageCode: "en-us"
 title: "Floirot blog"
-theme: "hugo-simple-main"
+theme: "hugo-floirot"
 
 menu:
   main:
@@ -10,19 +10,19 @@ menu:
       weight: 10
     - name: "Recepty"
       pageRef: "/recipes"
-      weight: 15
-    - name: "Blog"
-      pageRef: "/blog"
       weight: 20
-    - name: "Písanie"
-      pageRef: "/writing"
-      weight: 30
-    - name: "O mne"
-      pageRef: "/about.md"
-      weight: 40
+    #- name: "Blog"
+    #  pageRef: "/blog"
+    #  weight: 20
+    #- name: "Písanie"
+    #  pageRef: "/writings"
+    #  weight: 30
+    #- name: "O mne"
+    #  pageRef: "/about.md"
+    #  weight: 40
 
 taxonomies:
-  category: categories
-  tag: tags
+  #category: categories
+  #tag: tags
   ingredient: ingredients
   type-of-food: types-of-food

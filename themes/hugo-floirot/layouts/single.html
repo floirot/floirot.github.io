@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ if .Params.toc }}
+<details>
+    <summary>Table of Contents</summary>
+    {{ .TableOfContents }}
+</details>
+{{ end }}
+
+<article>
+    <h1>{{ .Title }}</h1>
+    <div class="content">
+        {{ .Content }}
+    </div>
+</article>
+
+<!-- Render types-of-food -->
+{{ $typesOfFood := .GetTerms "types-of-food" }}
+{{ if $typesOfFood }}
+<p>
+    Typ jedla:&nbsp;&nbsp;
+    {{ range $typesOfFood }}
+    <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>&nbsp;&nbsp;
+    {{ end }}
+</p>
+{{ end }}
+
+<!-- Render ingredients -->
+{{ $ingredients := .GetTerms "ingredients" }}
+{{ if $ingredients }}
+<p>
+    Ingrediencie:&nbsp;&nbsp;
+    {{ range $ingredients }}
+    <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>&nbsp;&nbsp;
+    {{ end }}
+</p>
+{{ end }}
+{{ end }}

@@ -1,7 +1,8 @@
 ---
 title: "Alkohol"
 date: "2024-02-13"
-tags: ['life']
+tags: ["life"]
+draft: true
 ---
 
 V poslednej dobe ma pochytila zvláštna chuť si definitívne zodpovedať otázku: piť či nepiť? Kdesi už zo mňa stihla opadnúť chuť spíjať sa pod obraz boží. Ťažko v takom stave nachádzať pozitíva, snáď len veľmi krátku a jednostrannú zábavu. Pre niekoho je to aj voda v studnici príhod na spomínanie a pobavenie publika, ale toto sa mňa netýka, keďže sa za akoby mne nepatriace konanie zvyknem hanbiť. Je to akoby existovala druhá osoba so svojimi primitívnymi a tunelovými preferenciami a ja ju nenávidím. Neviem, že či má vôbec zmysel pozastavovať sa nad ďalšími nevýhodami, ale však skúsim. Opica. Obrovské výkyvy nálad. Nezdravie. Závislosť. Asociálna socializácia. Tak ale prečo som vlastne toľko krát bol v takom stave? Vari nie som taký slaboch, aby to bolo kvôli tlaku okolia.
