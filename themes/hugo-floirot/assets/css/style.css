@@ -16,16 +16,16 @@ div.pagination {
   justify-content: space-between;
 }
 
-ul.blog-posts {
+ul.posts {
   padding-left: 0;
 }
 
-ul.blog-posts > li {
+ul.posts > li {
   list-style-type: none;
   display: flex;
 }
 
-ul.blog-posts > li span {
+ul.posts > li > time {
   flex: 0 0 130px;
   color: var(--text-light);
 }

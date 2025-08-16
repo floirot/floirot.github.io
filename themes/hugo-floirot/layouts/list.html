@@ -1,8 +1,12 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<ul>
-    {{ range .Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+<ul class="posts">
+    <!-- Sort pages by Date descending (newest first) and display date -->
+    {{ range sort .Pages "Date" "desc" }}
+    <li>
+        <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2006-01-02" }}</time>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
     {{ end }}
 </ul>
 {{ end }}
