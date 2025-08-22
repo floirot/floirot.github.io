@@ -30,6 +30,10 @@ ul.posts > li > time {
   color: var(--text-light);
 }
 
+article {
+  border-color: transparent;
+}
+
 nav#TableOfContents > ul {
   margin-block-start: 0;
 }
