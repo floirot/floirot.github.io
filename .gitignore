@@ -2,3 +2,4 @@
 .hugo_build.lock
 public/
 themes/hugo-simple-main/
+.github/copilot-instructions.md
