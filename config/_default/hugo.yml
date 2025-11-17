@@ -1,7 +1,13 @@
+title: "floirot"
 baseURL: "https://floirot.github.io/"
-languageCode: "en-us"
-title: "Floirot blog"
+languageCode: "sk"
 theme: "hugo-floirot"
+
+permalinks:
+  # blog: "/:slugorcontentbasename/"
+  term:
+    ingredients: "/recipes/ingredient/:slug"
+    types-of-food: "/recipes/type-of-food/:slug"
 
 menu:
   main:
@@ -26,3 +32,23 @@ taxonomies:
   #tag: tags
   ingredient: ingredients
   type-of-food: types-of-food
+
+# config .md -> .html parsing
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    # ordered: true
+  highlight:
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: true
+    style: "catppuccin-mocha"
+
+# misc
+capitalizeListTitles: false
+enableRobotsTXT: true
+disableKinds: ["taxonomy"]
