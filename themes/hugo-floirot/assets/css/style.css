@@ -1,55 +1,55 @@
 :root {
-  --accent: rgb(23, 197, 23);
+    --accent: rgb(23, 197, 23);
 }
 
 body {
-  -webkit-text-size-adjust: 100%; /* prevent Mobile Safari from adjusting font sizes */
+    -webkit-text-size-adjust: 100%; /* prevent Mobile Safari from adjusting font sizes */
 }
 
 nav a.current {
-  color: var(--accent) !important;
-  border-color: var(--accent) !important;
+    color: var(--accent) !important;
+    border-color: var(--accent) !important;
 }
 
 div.pagination {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
 }
 
 ul.posts {
-  padding-left: 0;
+    padding-left: 0;
 }
 
 ul.posts > li {
-  list-style-type: none;
-  display: flex;
+    list-style-type: none;
+    display: flex;
 }
 
 ul.posts > li > time {
-  flex: 0 0 130px;
-  color: var(--text-light);
+    flex: 0 0 130px;
+    color: var(--text-light);
 }
 
 article {
-  border-color: transparent;
+    border-color: transparent;
 }
 
 nav#TableOfContents > ul {
-  margin-block-start: 0;
+    margin-block-start: 0;
 }
 
 main > p:first-child time {
-  color: var(--text-light);
+    color: var(--text-light);
 }
 
 .icon {
-  vertical-align: sub;
-  padding-right: 0.25rem;
-  display: inline-block;
-  width: 1em;
-  height: 1.3em;
-  margin-right: 0.2rem;
-  stroke-width: 0;
-  stroke: currentColor;
-  fill: currentColor;
+    vertical-align: sub;
+    padding-right: 0.25rem;
+    display: inline-block;
+    width: 1em;
+    height: 1.3em;
+    margin-right: 0.2rem;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
 }
