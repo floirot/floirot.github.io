@@ -5,6 +5,8 @@ types-of-food: ['hlavné-jedlo']
 ingredients: ['kuracie-mäso', 'šampiňóny', 'cibuľa', 'cestoviny']
 ---
 
+![Penne marsala](images/kuracie_penne_marsala.jpg)
+
 Ingrediencie:
 
 - 350 g penne cestovín
