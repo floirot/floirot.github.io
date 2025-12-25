@@ -14,12 +14,12 @@ menu:
     - name: "Domov"
       pageRef: "/"
       weight: 10
+    - name: "Blog"
+      pageRef: "/blog"
+      weight: 15
     - name: "Recepty"
       pageRef: "/recipes"
       weight: 20
-    #- name: "Blog"
-    #  pageRef: "/blog"
-    #  weight: 20
     - name: "Písanie"
       pageRef: "/writings"
       weight: 30
@@ -29,7 +29,7 @@ menu:
 
 taxonomies:
   #category: categories
-  #tag: tags
+  tag: tags
   ingredient: ingredients
   type-of-food: types-of-food
 

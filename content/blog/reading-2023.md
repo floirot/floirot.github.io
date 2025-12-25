@@ -2,7 +2,6 @@
 title: '2023 v knihách'
 date: '2024-01-09'
 tags: ['reading']
-draft: true
 ---
 - Ballard J.G. - Crash
 - Camus Albert - Prvý človek
